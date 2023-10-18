@@ -1,0 +1,39 @@
+body{
+    box-sizing: border-box;
+    background: #C2DFE9;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.container{
+    text-align: center;
+    margin-top:5%;
+    padding:1em;
+    border-radius:1em;
+    width:20%;
+    background: white;
+    color:#A0A797;
+    font-size: .75rem;
+    font-family: 'Roboto';
+    line-height: 1.5;
+}
+.para{
+    padding:.75em;
+}
+.title{
+    letter-spacing: .05rem;
+    padding:0;
+    margin-bottom: 0;
+    font-size: 1rem;
+    font-weight: bolder;
+    color:#11160c;
+}
+img{
+    width:100%;
+    display: block;
+    border-radius: 1em;
+}
